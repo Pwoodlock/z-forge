@@ -1,0 +1,117 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE / Editor
+.idea/
+.vscode/
+.vs/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+tests/
+
+# Sensitive data
+*.pem
+*.key
+*.crt
+*.env
+.env.*
+secrets.json
+credentials.json
+config.local.json
+*.secret
+
+# API keys / tokens
+api_keys.txt
+tokens.txt
+
+# Local development
+local/
+temp/
+tmp/
+scratch/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# mypy
+.mypy_cache/
+
+# Distribution / packaging
+*.manifest
+*.spec
+
+# User-specific files
+*.bak
+*.backup
+*.orig
+
+# ===========================================
+# AI Agent / Tooling directories - EXCLUDE
+# ===========================================
+.claude/
+.opencode/
+.qwen/
+_bmad/
+_bmad-output/
+
+# Generated docs (not user-facing node docs in web/docs/)
+/docs/
+
+# CI/CD workflows (not ready yet)
+.github/
+
+# Pre-commit config
+.pre-commit-config.yaml
