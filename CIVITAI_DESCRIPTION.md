@@ -1,5 +1,7 @@
 # Z-Forge - Structured Prompt Builder for ComfyUI
 
+**GitHub:** https://github.com/Pwoodlock/z-forge
+
 > ⚠️ **BETA RELEASE** - This is an early release. Features may change and bugs may exist. Feedback and bug reports welcome on GitHub.
 
 > ⚡ **REQUIRES AN LLM** - Z-Forge needs a language model to expand prompts. Use [LM Studio](https://lmstudio.ai) (free, local) or connect to any external LLM node.
@@ -18,20 +20,7 @@ Z-Forge is a ComfyUI custom node pack that transforms how you create prompts. In
 
 ---
 
-## Screenshots
-
-### Generated Examples
-![Example 1](https://raw.githubusercontent.com/Pwoodlock/z-forge/master/assets/ComfyUI_temp_xtolc_00002_.png)
-![Example 2](https://raw.githubusercontent.com/Pwoodlock/z-forge/master/assets/ComfyUI_temp_xtolc_00011_.png)
-![Example 3](https://raw.githubusercontent.com/Pwoodlock/z-forge/master/assets/ComfyUI_temp_xtolc_00017_.png)
-![Example 4](https://raw.githubusercontent.com/Pwoodlock/z-forge/master/assets/ComfyUI_temp_xtolc_00019_.png)
-
-### More Examples
-![Example 5](https://raw.githubusercontent.com/Pwoodlock/z-forge/master/assets/ComfyUI_temp_xtolc_00022_.png)
-![Example 6](https://raw.githubusercontent.com/Pwoodlock/z-forge/master/assets/ComfyUI_temp_xtolc_00023_.png)
-![Example 7](https://raw.githubusercontent.com/Pwoodlock/z-forge/master/assets/ComfyUI_temp_xtolc_00024_.png)
-![Example 8](https://raw.githubusercontent.com/Pwoodlock/z-forge/master/assets/ComfyUI_temp_xtolc_00025_.png)
-![Example 9](https://raw.githubusercontent.com/Pwoodlock/z-forge/master/assets/ComfyUI_temp_xtolc_00027_.png)
+**[UPLOAD YOUR SCREENSHOTS HERE USING CIVITAI'S IMAGE UPLOAD BUTTON]**
 
 ---
 
@@ -110,7 +99,7 @@ Then install [LM Studio](https://lmstudio.ai/) and load a model.
 1. Add **Z-Forge Person** node(s)
 2. Connect to `person_2` or `person_3` inputs on main node
 3. Set **people** count to 2 or 3
-4. Add **interaction** description (how they relate)
+4. Add **interaction** description
 
 ### With LM Studio (Local LLM)
 1. Start LM Studio and load a model
@@ -121,19 +110,6 @@ Then install [LM Studio](https://lmstudio.ai/) and load a model.
 
 ---
 
-## System Prompt Templates
-
-Z-Forge includes optimized templates:
-
-| Template | Style |
-|----------|-------|
-| `v3_system_prompt` | Realistic cinematic photography |
-| `v3_fantasy_system_prompt` | Fantasy with Lord of the Rings / Witcher aesthetic |
-
-Add your own templates by placing `.md` files in the `system_prompts/` folder.
-
----
-
 ## Fantasy Mode Highlights
 
 220+ cinematic fantasy locations across categories:
@@ -141,11 +117,13 @@ Add your own templates by placing `.md` files in the `system_prompts/` folder.
 - Elven cities, dwarven halls, Viking settlements
 - Gothic cathedrals, Slavic villages, desert temples
 - Jungle ruins, mystical seas, enchanted groves
+- Celtic hillforts, Nordic turf farms, Mediterranean ruins
+- Fortifications, harsh environments, industrial sites
 
 Fantasy-appropriate randomization:
 - Races: Elves, dwarves, halflings, orcs, tieflings, dragonborn, and more
-- Outfits: Common peasant, noble finery, battle armor, wizard robes
-- Accessories: Amulets, circlets, belt pouches (no wristwatches in Middle-earth!)
+- Outfits: Peasant garb, noble finery, battle armor, wizard robes
+- Accessories: Amulets, circlets, belt pouches
 - Footwear: Leather boots, elven shoes, armored greaves
 
 ---
@@ -165,20 +143,7 @@ Without an LLM, Z-Forge outputs YAML variables only - not finished prompts.
 ## Links
 
 - **GitHub**: https://github.com/Pwoodlock/z-forge
-- **License**: MIT
-
----
-
-## Changelog
-
-### v1.0.0
-- Initial release
-- Realistic and Fantasy genre modes
-- 220+ fantasy locations
-- Multi-person scene support
-- LM Studio integration
-- Dynamic dropdown filtering
-- Server-side genre validation
+- **License**: MIT (free to use and modify)
 
 ---
 
