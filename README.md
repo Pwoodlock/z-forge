@@ -70,11 +70,14 @@ Select templates in the **Z-Forge LM Studio** node. Add custom templates by plac
 ![Example 1](assets/ComfyUI_temp_xtolc_00002_.png)
 ![Example 2](assets/ComfyUI_temp_xtolc_00011_.png)
 ![Example 3](assets/ComfyUI_temp_xtolc_00017_.png)
+![Example 4](assets/ComfyUI_temp_xtolc_00019_.png)
 
 ### More Examples
-![Example 4](assets/ComfyUI_temp_xtolc_00022_.png)
-![Example 5](assets/ComfyUI_temp_xtolc_00023_.png)
-![Example 6](assets/ComfyUI_temp_xtolc_00024_.png)
+![Example 5](assets/ComfyUI_temp_xtolc_00022_.png)
+![Example 6](assets/ComfyUI_temp_xtolc_00023_.png)
+![Example 7](assets/ComfyUI_temp_xtolc_00024_.png)
+![Example 8](assets/ComfyUI_temp_xtolc_00025_.png)
+![Example 9](assets/ComfyUI_temp_xtolc_00027_.png)
 
 ## Usage
 
