@@ -18,7 +18,7 @@ Search for "Z-Forge" in ComfyUI Manager and install.
 ### Manual Installation
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/your-username/z-forge
+git clone https://github.com/Pwoodlock/z-forge
 ```
 
 ### Optional: LM Studio Integration
