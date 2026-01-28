@@ -6,6 +6,17 @@
 
 Structured Prompt Compiler for ComfyUI - Build consistent image generation prompts using the v3 variable system.
 
+## Requirements
+
+**Z-Forge requires an LLM to expand prompts.** Choose one:
+
+| Option | Description |
+|--------|-------------|
+| **LM Studio (Local)** | Free, runs on your machine. Download from [lmstudio.ai](https://lmstudio.ai) and load a model. |
+| **External LLM Node** | Connect Z-Forge outputs to any ComfyUI LLM node (OpenAI, Ollama, etc.) |
+
+Without an LLM, Z-Forge outputs structured YAML variables only - not finished image prompts.
+
 ## Compatibility
 
 **Designed for:** Z Image Turbo

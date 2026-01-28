@@ -2,6 +2,8 @@
 
 > ⚠️ **BETA RELEASE** - This is an early release. Features may change and bugs may exist. Feedback and bug reports welcome on GitHub.
 
+> ⚡ **REQUIRES AN LLM** - Z-Forge needs a language model to expand prompts. Use [LM Studio](https://lmstudio.ai) (free, local) or connect to any external LLM node.
+
 Stop writing prompts from scratch every time. Z-Forge gives you a structured system for building consistent, detailed image prompts with just a few clicks.
 
 ---
@@ -135,7 +137,11 @@ Fantasy-appropriate randomization:
 
 - ComfyUI
 - Python 3.10+
-- (Optional) LM Studio + lmstudio Python package
+- **An LLM (required)** - One of the following:
+  - **LM Studio** (recommended) - Free, local, no API costs. Download from [lmstudio.ai](https://lmstudio.ai), install `pip install lmstudio`, load a model.
+  - **External LLM node** - Connect Z-Forge's `variables` and `llm_instructions` outputs to any ComfyUI LLM node (OpenAI, Ollama, Claude, etc.)
+
+Without an LLM, Z-Forge outputs YAML variables only - not finished prompts.
 
 ---
 
