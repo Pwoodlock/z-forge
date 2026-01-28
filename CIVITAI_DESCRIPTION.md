@@ -14,7 +14,21 @@ Z-Forge is a ComfyUI custom node pack that transforms how you create prompts. In
 
 **Two modes:**
 - **Realistic** - Real-world ethnicities, modern/period clothing, natural locations
-- **Fantasy** - Elves, dwarves, tieflings, medieval armor, mystical forests, and 160+ cinematic fantasy locations
+- **Fantasy** - Elves, dwarves, tieflings, medieval armor, mystical forests, and 220+ cinematic fantasy locations
+
+---
+
+## Screenshots
+
+### Generated Examples
+![Example 1](https://raw.githubusercontent.com/Pwoodlock/z-forge/master/assets/ComfyUI_temp_xtolc_00002_.png)
+![Example 2](https://raw.githubusercontent.com/Pwoodlock/z-forge/master/assets/ComfyUI_temp_xtolc_00011_.png)
+![Example 3](https://raw.githubusercontent.com/Pwoodlock/z-forge/master/assets/ComfyUI_temp_xtolc_00017_.png)
+
+### More Examples
+![Example 4](https://raw.githubusercontent.com/Pwoodlock/z-forge/master/assets/ComfyUI_temp_xtolc_00022_.png)
+![Example 5](https://raw.githubusercontent.com/Pwoodlock/z-forge/master/assets/ComfyUI_temp_xtolc_00023_.png)
+![Example 6](https://raw.githubusercontent.com/Pwoodlock/z-forge/master/assets/ComfyUI_temp_xtolc_00024_.png)
 
 ---
 
@@ -119,7 +133,7 @@ Add your own templates by placing `.md` files in the `system_prompts/` folder.
 
 ## Fantasy Mode Highlights
 
-160+ cinematic fantasy locations across categories:
+220+ cinematic fantasy locations across categories:
 - Ancient forests, mountains, ruins
 - Elven cities, dwarven halls, Viking settlements
 - Gothic cathedrals, Slavic villages, desert temples
@@ -157,7 +171,7 @@ Without an LLM, Z-Forge outputs YAML variables only - not finished prompts.
 ### v1.0.0
 - Initial release
 - Realistic and Fantasy genre modes
-- 160+ fantasy locations
+- 220+ fantasy locations
 - Multi-person scene support
 - LM Studio integration
 - Dynamic dropdown filtering

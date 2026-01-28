@@ -64,6 +64,18 @@ Select templates in the **Z-Forge LM Studio** node. Add custom templates by plac
 - **External Mode**: Output YAML + instructions for use with other LLM nodes
 - **Internal Mode**: Built-in LM Studio integration
 
+## Screenshots
+
+### Generated Examples
+![Example 1](assets/ComfyUI_temp_xtolc_00002_.png)
+![Example 2](assets/ComfyUI_temp_xtolc_00011_.png)
+![Example 3](assets/ComfyUI_temp_xtolc_00017_.png)
+
+### More Examples
+![Example 4](assets/ComfyUI_temp_xtolc_00022_.png)
+![Example 5](assets/ComfyUI_temp_xtolc_00023_.png)
+![Example 6](assets/ComfyUI_temp_xtolc_00024_.png)
+
 ## Usage
 
 ### Basic Workflow
