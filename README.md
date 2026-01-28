@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+> ⚠️ **BETA** - Early release. Features may change. Feedback welcome.
+
 Structured Prompt Compiler for ComfyUI - Build consistent image generation prompts using the v3 variable system.
 
 ## Compatibility
@@ -12,14 +14,12 @@ Z-Forge is developed and tested specifically with Z Image Turbo. Compatibility w
 
 ## Installation
 
-### Via ComfyUI Manager (Recommended)
-Search for "Z-Forge" in ComfyUI Manager and install.
-
 ### Manual Installation
 ```bash
 cd ComfyUI/custom_nodes
 git clone https://github.com/Pwoodlock/z-forge
 ```
+Restart ComfyUI after cloning.
 
 ### Optional: LM Studio Integration
 ```bash
