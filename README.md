@@ -67,17 +67,28 @@ Select templates in the **Z-Forge LM Studio** node. Add custom templates by plac
 ## Screenshots
 
 ### Generated Examples
-![Example 1](assets/ComfyUI_temp_xtolc_00002_.png)
-![Example 2](assets/ComfyUI_temp_xtolc_00011_.png)
-![Example 3](assets/ComfyUI_temp_xtolc_00017_.png)
-![Example 4](assets/ComfyUI_temp_xtolc_00019_.png)
+![Example 1](assets/ComfyUI_00021_.png)
+![Example 2](assets/ComfyUI_00023_.png)
+![Example 3](assets/ComfyUI_00024_.png)
+![Example 4](assets/ComfyUI_00025_.png)
+![Example 5](assets/ComfyUI_00041_.png)
+![Example 6](assets/ComfyUI_00042_.png)
 
 ### More Examples
-![Example 5](assets/ComfyUI_temp_xtolc_00022_.png)
-![Example 6](assets/ComfyUI_temp_xtolc_00023_.png)
-![Example 7](assets/ComfyUI_temp_xtolc_00024_.png)
-![Example 8](assets/ComfyUI_temp_xtolc_00025_.png)
-![Example 9](assets/ComfyUI_temp_xtolc_00027_.png)
+![Example 7](assets/ComfyUI_00043_.png)
+![Example 8](assets/ComfyUI_00044_.png)
+![Example 9](assets/ComfyUI_00045_.png)
+![Example 10](assets/ComfyUI_00046_.png)
+![Example 11](assets/ComfyUI_00047_.png)
+![Example 12](assets/ComfyUI_temp_xtolc_00002_.png)
+![Example 13](assets/ComfyUI_temp_xtolc_00011_.png)
+![Example 14](assets/ComfyUI_temp_xtolc_00017_.png)
+![Example 15](assets/ComfyUI_temp_xtolc_00019_.png)
+![Example 16](assets/ComfyUI_temp_xtolc_00022_.png)
+![Example 17](assets/ComfyUI_temp_xtolc_00023_.png)
+![Example 18](assets/ComfyUI_temp_xtolc_00024_.png)
+![Example 19](assets/ComfyUI_temp_xtolc_00025_.png)
+![Example 20](assets/ComfyUI_temp_xtolc_00027_.png)
 
 ## Usage
 
