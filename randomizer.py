@@ -323,6 +323,86 @@ LOCATIONS_FANTASY = [
     "geothermal valley with boiling mud pools, steam vents hissing from cracks in the earth, mineral deposits in vivid yellows and oranges, boardwalk path through dangerous terrain, hellish beauty",
     "sea cave at high tide, waves surging into a vast cavern, natural light from the entrance illuminating the interior, thunder of water echoing off walls, salt spray filling the air",
     "aurora over a frozen lake, green and purple lights rippling across the sky, perfect reflection in the ice, snow-covered pines along the shore, absolute silence, natural wonder",
+
+    # CELTIC & MYTHIC BRITAIN (8)
+    "iron age hillfort at dawn, concentric earthwork ditches and wooden palisade walls, roundhouses with conical thatched roofs, morning cook fires sending smoke into grey sky, cattle grazing on the slopes below",
+    "drowned forest at low tide, ancient oak stumps exposed on a beach, preserved by peat for millennia, grey waves lapping at blackened wood, storm clouds gathering offshore, remnant of a lost landscape",
+    "crannog dwelling on a misty loch, circular wooden house on an artificial island, timber causeway connecting to shore, fishing nets drying on poles, smoke rising through the roof, bronze age isolation",
+    "chalk giant carved into a hillside, ancient figure cut through turf to white bedrock, sheep grazing around the outline, overcast sky stretching to distant downs, mysterious origin and purpose",
+    "tin mine on a moorland hillside, stone engine house with crumbling chimney stack, spoil heaps of pale waste rock, rusted winding gear, gorse and heather reclaiming the workings, industrial archaeology",
+    "holy well in a forest hollow, stone basin collecting spring water, clouties tied to overhanging branches, worn steps leading down to the water, dappled light through oak leaves, folk devotion",
+    "passage tomb at winter solstice, grass-covered mound with stone entrance passage, dawn light beginning to penetrate the interior, frost on the surrounding grass, five thousand years of waiting",
+    "cliff monastery on a sea stack, beehive stone cells clinging to impossible rock, wooden ladders the only access, atlantic waves crashing below, grey sky and wheeling seabirds, extreme devotion",
+
+    # NORDIC & ICELANDIC (8)
+    "turf farmstead in a glacial valley, traditional longhouse with grass-covered roof blending into hillside, sheep scattered on surrounding slopes, glacier visible at valley head, isolation and endurance",
+    "black sand beach with basalt sea stacks, dark volcanic sand against white surf, columnar basalt formations like frozen organ pipes, low grey clouds, wind-driven rain, alien and dramatic",
+    "geothermal rift valley, steam rising from cracks in dark volcanic rock, milky blue hot spring pools, orange and yellow mineral deposits, mountains on either side, tectonic forces visible",
+    "viking assembly site on a flat plain, natural amphitheatre formed by rock walls, law rock where speakers stood, river running through the site, historical weight of decisions made here",
+    "glacial lagoon with floating icebergs, chunks of blue-white ice calved from glacier tongue, still grey water reflecting the ice, black volcanic sand shore, seals hauled out on the bergs",
+    "moss-covered lava field stretching to horizon, lumpy green terrain of ancient volcanic flow, no trees breaking the endless green, low clouds and soft light, otherworldly and silent",
+    "abandoned turf church in a remote valley, wooden door hanging open, interior dark and damp, graveyard with leaning headstones, mountains closing in on all sides, faith at the edge of habitation",
+    "waterfall plunging behind a walking path, curtain of white water with cave passage behind, spray soaking everything, rainbow in the mist when sun breaks through, hidden viewpoint",
+
+    # GERMANIC & CENTRAL EUROPEAN (8)
+    "walled medieval town at market day, half-timbered buildings around a cobbled square, market stalls with produce and crafts, town well at the centre, church spire rising above steep rooftops",
+    "castle on a river bend, stone walls rising directly from the water, round towers at each corner, vineyards on the slopes behind, morning mist on the river surface, strategic and picturesque",
+    "charcoal burner's camp deep in the forest, smouldering mound covered in turf, simple shelter of branches, soot-blackened worker tending the burn, smoke filtering through the trees, solitary trade",
+    "salt mine entrance in a mountainside, timber-framed tunnel mouth with rail tracks emerging, mine carts loaded with white crystal, workers in leather aprons, wealth drawn from the earth",
+    "monastery brewery courtyard, copper vessels visible through open doors, monks in brown robes rolling barrels, herb garden providing flavourings, steam rising from the brewhouse, industrious contemplation",
+    "plague column in a town square, baroque stone monument to pandemic dead, carved saints and angels weathered by time, cobblestones worn smooth around the base, memorial to catastrophe",
+    "hanging houses over a river gorge, medieval buildings cantilevered over the drop, wooden balconies overlooking the chasm, river visible far below, engineering confidence of another age",
+    "forest glassworks in a clearing, furnace glowing orange through open doors, workers blowing and shaping molten glass, stacks of finished vessels, sand and ash raw materials piled nearby",
+
+    # MEDITERRANEAN & CLASSICAL RUINS (8)
+    "roman aqueduct spanning a valley, massive stone arches marching across the landscape, some collapsed into the river below, wildflowers growing on the top channel, engineering for eternity",
+    "amphitheatre overgrown with grass, stone seating tiers visible beneath vegetation, arena floor now a meadow, goats grazing where gladiators fought, afternoon sun warming ancient stone",
+    "temple columns standing alone in a field, marble pillars with capitals still intact, building they supported long collapsed, olive trees surrounding the site, cicadas loud in summer heat",
+    "roman bath complex in ruins, mosaic floors exposed to sky, hypocaust pillars visible in excavated sections, wildflowers growing in the cold plunge pool, faded luxury",
+    "cliff-face tombs carved into limestone, decorated facades weathered by millennia, dark doorways leading to burial chambers, goat track winding between the tombs, city of the dead",
+    "sunken city visible through clear water, street grid and building foundations below the surface, fish swimming through doorways, boat floating above the ruins, subsidence and time",
+    "volcanic ruins preserved in ash, excavated streets with stepping stones, frescoed walls still showing colour, plaster casts of victims, tourists walking where romans walked, frozen catastrophe",
+    "byzantine chapel on a rocky island, simple stone structure with faded frescoes inside, fishermen's boats pulled up on the shore, crystal clear water, whitewash bright against blue sea",
+
+    # FORTIFICATIONS & WARFARE (8)
+    "star fort from above, geometric bastions designed for artillery defence, moat filled with stagnant green water, grass growing on the earthworks, military mathematics made landscape",
+    "siege tower abandoned against castle walls, massive wooden structure burnt and broken, scaling ladders still leaning on the stonework, bodies cleared but weapons remaining, assault failed",
+    "trebuchet on a hillside overlooking a fortress, massive timber throwing arm cocked and loaded, stone ammunition piled nearby, crew preparing for the next shot, medieval artillery",
+    "battlefield after snowfall, white covering hiding the carnage beneath, broken weapons protruding from the snow, crows gathering despite the cold, peaceful surface over violence",
+    "border wall stretching across moorland, stone construction following the ridgeline, milecastles at regular intervals, soldiers patrolling the walkway, empire's edge marked in stone",
+    "breached city wall with rubble spilling inward, gap where artillery finally broke through, burnt buildings visible beyond, victorious soldiers entering the breach, moment of conquest",
+    "military cemetery in neat rows, simple wooden crosses marking fresh graves, larger memorial at the head of the field, rain falling on the raw earth, organised grief",
+    "watchtower on fire at night, flames visible for miles, signal passed to the next tower on the horizon, alarm spreading across the frontier, invasion warning system activated",
+
+    # HARSH ENVIRONMENTS (8)
+    "mountain hermitage carved into a sheer cliff, wooden platforms and ladders providing access, prayer flags snapping in the wind, clouds below the level of the dwelling, extreme isolation",
+    "arctic hunting camp on sea ice, skin tents weighted with stones, dog teams staked nearby, seal carcass being butchered, hunters silhouetted against vast white expanse, survival skills",
+    "desert well surrounded by date palms, stone-lined pit with rope and bucket, camel caravan watering before continuing, precious water in hostile land, life at the oasis",
+    "highland shieling in summer pasture, simple stone shelter for seasonal herders, cattle grazing on mountain grass, distant view of glens below, transhumance tradition",
+    "peat cutting on a windswept bog, rectangular pools where fuel has been extracted, cut blocks drying in stacks, crofter working with traditional tool, landscape as fuel source",
+    "ice cave inside a glacier, blue light filtering through the frozen ceiling, meltwater stream running along the floor, walls of compressed ice showing annual layers, inside the frozen river",
+    "storm shelter in a mountain pass, rough stone walls and turf roof, barely visible against the hillside, built to save lives in sudden weather, refuge in dangerous terrain",
+    "salt flat stretching to every horizon, cracked white surface with distant mountains shimmering in heat haze, perfect geometric patterns in the dried crust, blinding brightness at midday",
+
+    # INDUSTRIAL & WORKING LANDSCAPES (8)
+    "iron bloomery in a forest clearing, clay furnace glowing with charcoal heat, bellows being worked by apprentices, raw iron being extracted and hammered, birth of metal",
+    "quarry cut deep into a hillside, massive stone blocks being levered and lifted, crane powered by human treadmill, dust hanging in the air, cathedral stone being born",
+    "water mill on a fast-flowing stream, wooden wheel turning steadily, grain sacks waiting to be ground, miller dusted white with flour, mechanical power from nature",
+    "rope walk stretching between buildings, workers twisting hemp fibres into cordage, long covered shed protecting the process, maritime industry supporting fleets, skilled repetitive labour",
+    "tannery beside a river, hides soaking in foul-smelling pits, workers scraping and treating leather, wooden frames with stretched skins drying, necessary but noisome trade",
+    "pottery workshop with drying racks, clay vessels in various stages of completion, kiln smoking in the yard, potter at the wheel shaping with wet hands, ancient craft continuing",
+    "shipyard at low tide, wooden hull taking shape on the slipway, workers swarming over the skeleton frame, smell of tar and fresh timber, vessel being born for the sea",
+    "fulling mill processing wool cloth, water-powered hammers pounding fabric, workers hanging wet cloth to dry on frames, stream running milky with lanolin, textile finishing",
+
+    # SACRED & SPIRITUAL PLACES (8)
+    "pilgrimage church at journey's end, grand facade after weeks of walking, pilgrims kneeling in the square, scallop shell symbols everywhere, destination achieved at last",
+    "hermit's cell built against a boulder, tiny stone structure with single window, vegetable garden scratched from poor soil, path worn by those seeking wisdom, chosen solitude",
+    "monastery scriptorium with high windows, desks arranged to catch the light, monks bent over manuscripts, ink and gold leaf and vellum, knowledge preserved through dark ages",
+    "baptistry with sunken pool, octagonal building with domed roof, light entering through high windows, still water awaiting the faithful, architecture of transformation",
+    "charnel house with stacked bones, skulls arranged in decorative patterns, femurs forming walls, memento mori made physical, medieval death acceptance",
+    "leper chapel outside city walls, small stone building with separate entrance for the afflicted, alms window in the wall, bell to warn of approach, care at a distance",
+    "wayside shrine at a dangerous crossing, small roofed structure protecting a carved figure, candles and flowers left by travellers, prayers for safe passage, faith at the roadside",
+    "ruined abbey in a river valley, gothic arches open to the sky, grass growing in the nave, sheep grazing in the cloister, dissolution and decay of religious power",
 ]
 
 # Keep LOCATIONS as alias for backwards compatibility
